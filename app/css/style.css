@@ -1,0 +1,15 @@
+html {
+  cursor: none;
+  height:100%;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+body {
+  background-color: #0000A0;
+  color: #FFF;
+  font-family: 'Lucida Console', sans-serif;
+}
